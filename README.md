@@ -1,2 +1,7 @@
-# amuconf2019
-Presentation “Spatial prediction of soil parameters using machine learning methods”, The natural environment as a research area, AMU 30-05-19
+## Spatial prediction of soil parameters using machine learning methods
+
+Soil conditions are one of the factors determining the process of vegetation, the selection of crop plants and the quantity of potential yields. The possibility of parameterization and mapping of soils spatial variability in the field scale is an innovative approach in crop production management, enabling the identification of areas similar in terms of selected soil characteristics (e.g. pH, humidity or nutrient content). The integration of data from various sources, such as field measurements, laser scanning and optical satellite imaging, using machine learning methods opens new perspectives in the understanding and interpretation of processes occurring in agroecosystems, despite the complexity and non-linearities of variables, at which conventional statistical methods fail. The main benefit resulting from the delimitation of homogeneous field zones is the optimization of agrotechnical operations, and consequently the reduction of production costs and losses from insufficient levels of the nutrient content in the soil. In addition, the rational application of fertilizers limits the pressure of agriculture on the natural environment. The aim of this presentation is to propose a methodology for the use of such data to develop the most accurate mapping of spatial variability of selected soil parameter.
+
+Conference: <br>
+*The natural environment as a research area* <br>
+Adam Mickiewicz University in Poznań, 30-05-2019
